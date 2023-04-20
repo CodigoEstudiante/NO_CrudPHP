@@ -1,0 +1,44 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+#contenedor {
+
+	width: 360px;
+	margin: 20px auto;
+	border: 2px solid #064569;
+	border-radius: 10px;
+
+	box-shadow:  0px 0px 10px #064569;
+
+	text-align: center;
+	padding: 10px;
+}
+
+#contenido{
+
+	padding: 10px;
+}
+
+button{
+	width: 100%;
+	margin-top: 20px;
+	margin-bottom: 15px;
+	border: 2px solid black;
+	padding: 2px;
+
+}
+
+#contenido table{
+	width: 100%;
+}
+
+h1{
+	text-decoration: underline;
+}
+
+button:hover{
+	background-color: #fff;
+	
+}

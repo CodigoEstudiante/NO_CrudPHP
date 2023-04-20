@@ -1,0 +1,66 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+#contenedor {
+
+	width: 360px;
+	margin: 20px auto;
+	border: 2px solid #064569;
+	border-radius: 10px;
+
+	box-shadow:  0px 0px 10px #064569;
+
+	text-align: center;
+	padding: 10px;
+}
+
+#cabezera {
+	padding: 10px;
+	
+}
+#cabezera h1{
+	text-decoration: underline;
+}
+
+form {
+
+	/*border: 2px solid black;*/
+	padding: 10px;
+	margin-bottom: -5px;
+}
+
+form input {
+	width: 300px;
+	margin: 5px;
+	font-size: 15pt;
+	border:2px solid black;
+
+}
+
+form > button {
+	width: 300px;
+	margin-top: 10px;
+	font-size: 15pt;
+	/*box-shadow: 0px 2px 0px black;*/
+
+	border:2px solid black;
+	padding: 2px;
+}
+
+button {
+	width: 300px;
+	
+	font-size: 15pt;
+	
+	margin-bottom: 15px;
+
+	border:2px solid black;
+	padding: 2px;
+}
+
+button:hover{
+	background-color: #fff;
+	
+}
